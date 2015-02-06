@@ -1,0 +1,5 @@
+/Users/masashi/Documents/workspace/BlogNativeCamera/app/build/intermediates/classes/debug
+/Users/masashi/Documents/workspace/BlogNativeCamera/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-730fdd22d2bbc4f3acfa70e3afd89ab5ee83579f.jar
+/Users/masashi/Documents/workspace/BlogNativeCamera/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-e863b96428974c82ad65728aac79c9d33ef14883.jar
+/Users/masashi/Documents/workspace/BlogNativeCamera/app/build/intermediates/pre-dexed/debug/classes-4759d3e933c04c3bdf025015dea5bb6b862aeb51.jar
+/Users/masashi/Documents/workspace/BlogNativeCamera/app/build/intermediates/pre-dexed/debug/classes-f3e5cc45da86d84d1315b8f497aee7120862fbfd.jar

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/masashi/Documents/workspace/BlogNativeCamera/app/build/intermediates/exploded-aar/BlogNativeCamera/openCVLibrary2482/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="86609d2f13e49ff5a662af46fe1023779fca0295">
+        <dex dex="/Users/masashi/Documents/workspace/BlogNativeCamera/app/build/intermediates/pre-dexed/debug/classes-4759d3e933c04c3bdf025015dea5bb6b862aeb51.jar" />
+    </item>
+    <item
+        jar="/android-sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/masashi/Documents/workspace/BlogNativeCamera/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-730fdd22d2bbc4f3acfa70e3afd89ab5ee83579f.jar" />
+    </item>
+    <item
+        jar="/Users/masashi/Documents/workspace/BlogNativeCamera/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/masashi/Documents/workspace/BlogNativeCamera/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-e863b96428974c82ad65728aac79c9d33ef14883.jar" />
+    </item>
+    <item
+        jar="/Users/masashi/Documents/workspace/BlogNativeCamera/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/masashi/Documents/workspace/BlogNativeCamera/app/build/intermediates/pre-dexed/debug/classes-f3e5cc45da86d84d1315b8f497aee7120862fbfd.jar" />
+    </item>
+
+</items>
