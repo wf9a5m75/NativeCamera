@@ -44,6 +44,8 @@
  /android-ndk-r10d/platforms/android-8/arch-arm/usr/include/sys/user.h \
  /android-ndk-r10d/platforms/android-8/arch-arm/usr/include/sched.h \
  /android-ndk-r10d/platforms/android-8/arch-arm/usr/include/Math.h \
+ /android-ndk-r10d/platforms/android-8/arch-arm/usr/include/stdio.h \
+ /android-ndk-r10d/platforms/android-8/arch-arm/usr/include/math.h \
  sdk/native/jni/include/opencv/cv.h \
  sdk/native/jni/include/opencv2/core/core_c.h \
  sdk/native/jni/include/opencv2/core/types_c.h \
@@ -52,7 +54,6 @@
  /android-ndk-r10d/platforms/android-8/arch-arm/usr/include/alloca.h \
  /android-ndk-r10d/platforms/android-8/arch-arm/usr/include/strings.h \
  /android-ndk-r10d/platforms/android-8/arch-arm/usr/include/memory.h \
- /android-ndk-r10d/platforms/android-8/arch-arm/usr/include/math.h \
  sdk/native/jni/include/opencv2/core/core.hpp \
  sdk/native/jni/include/opencv2/core/version.hpp \
  /android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.8/include/algorithm \
@@ -206,6 +207,10 @@
 
 /android-ndk-r10d/platforms/android-8/arch-arm/usr/include/Math.h:
 
+/android-ndk-r10d/platforms/android-8/arch-arm/usr/include/stdio.h:
+
+/android-ndk-r10d/platforms/android-8/arch-arm/usr/include/math.h:
+
 sdk/native/jni/include/opencv/cv.h:
 
 sdk/native/jni/include/opencv2/core/core_c.h:
@@ -221,8 +226,6 @@ sdk/native/jni/include/opencv2/core/types_c.h:
 /android-ndk-r10d/platforms/android-8/arch-arm/usr/include/strings.h:
 
 /android-ndk-r10d/platforms/android-8/arch-arm/usr/include/memory.h:
-
-/android-ndk-r10d/platforms/android-8/arch-arm/usr/include/math.h:
 
 sdk/native/jni/include/opencv2/core/core.hpp:
 
